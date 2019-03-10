@@ -43,12 +43,12 @@ A team's projected place is simply the ranking of their Weighted Sum score from 
 For example in the year 2004 the weighted sums predict the following race result:
 
 ```
-index Team	            Projected Place	Weighted Sum	Pursuit	    A Rider	    B Rider	    C Rider
-230	  Teter	            1.0	            -5.530155	    -1.359333	-1.702069	-1.567271	-0.901482
-231	  Kappa Kappa Gamma	2.0	            -4.536387	    -1.022450	-1.468038	-1.072774	-0.973126
-232	  Kappa Alpha Theta	3.0	            -3.737534	    -0.830632	-1.187635	-0.983004	-0.736264
-233	  Delta Zeta	    4.0	            -3.170507	    -0.698091	-1.152857	-0.800420	-0.519140
-234   Roadrunners       5.0             -2.726594       -0.502724   -0.852166   -0.712932   -0.658777
+index Team        Projected Place   Weighted Sum      Pursuit    A Rider     B Rider     C Rider
+230 Teter               1.0         -5.530155         -1.359333  -1.702069   -1.567271   -0.901482
+231 Kappa Kappa Gamma   2.0         -4.536387         -1.022450  -1.468038   -1.072774   -0.973126
+232 Kappa Alpha Theta   3.0         -3.737534         -0.830632  -1.187635   -0.983004   -0.736264
+233 Delta Zeta          4.0         -3.170507         -0.698091  -1.152857   -0.800420   -0.519140
+234 Roadrunners         5.0         -2.726594         -0.502724  -0.852166   -0.712932   -0.658777
 ```
 
 Which differs slightly from the actual finishing order:
